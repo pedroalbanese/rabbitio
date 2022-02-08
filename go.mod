@@ -1,3 +1,3 @@
-module github.com/sina-ghaderi/rabbitio
+module github.com/pedroalbanese/rabbitio
 
 go 1.17
