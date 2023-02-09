@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/sina-ghaderi/rabbitio"
+	"github.com/pedroalbanese/rabbitio"
 )
 
 func TestNewWriterCipher(t *testing.T) {
